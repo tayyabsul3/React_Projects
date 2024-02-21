@@ -1,5 +1,5 @@
 # React-Practice-Projects
-<p>While Learning React I practiced my concepts with these projects.</p>
+<p align="center">While Learning React I practiced my concepts with these projects.</p>
 
 <br>
 <br>
@@ -17,6 +17,8 @@
 <br>
 <h1 align="center">Project-3      --Dice Game using React          </h1>
 <h4>This project was difficult but Insightful as I was to figure out how we can make logic in React.js. </h4>
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(186).png?raw=true" alt="Contact-page-project-image">
+<a href="https://contact-page-brown.vercel.app/">Click to view LIVE</a>
 <br>
 <br>
 <h1 align="center">Project-4      --Food menu app using API           </h1>
