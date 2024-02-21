@@ -4,6 +4,7 @@
 
 <h1>Project-1       --Nike Simple Home Page           </h1>
 <p>This project helped me graps the concept of components in **React.js and I was able to Learn about building Components practically .</p>
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(185).png?raw=true" alt="brand-page-project-image">
 <br>
 <br>
 <h1>Project-2      --Contact Us page           </h1>
