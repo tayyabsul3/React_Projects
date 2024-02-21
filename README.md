@@ -10,7 +10,7 @@
 <br>
 <br>
 <h1 align="center" >Project-2      --Contact Us page           </h1>
-<h4 align="center">This project helped me learn about **forms **React.js and I was able to Learn about building Contact Us and Display/Store  User data .</h4>
+<h4 align="center">This project helped me learn about **forms React.js** and I was able to Learn about building Contact Us and Display/Store  User data .</h4>
 <img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(186).png?raw=true" alt="Contact-page-project-image">
 <br>
 <br>
