@@ -9,10 +9,14 @@
 <a href="https://brand-page-orpin.vercel.app/">Click to view LIVE</a>
 <br>
 <br>
+<br>
+<br>
 <h1 align="center" >Project-2      --Contact Us page           </h1>
 <h4 align="center">This project helped me learn about forms React.js and I was able to Learn about building Contact Us and Display/Store  User data .</h4>
 <img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(186).png?raw=true" alt="Contact-page-project-image">
 <a href="https://contact-page-brown.vercel.app/">Click to view LIVE</a>
+<br>
+<br>
 <br>
 <br>
 
@@ -22,8 +26,14 @@
 <a href="https://dice-game-lilac-one.vercel.app/">Click to view LIVE</a>
 <br>
 <br>
+<br>
+<br>
 <h1 align="center">Project-4      --Food menu app using API           </h1>
 <h4>This project was also difficult but knowlegeble  as I Learned about using API's in React ,how to fetch data and then display it .</h4>
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(188).png?raw=true" alt="Contact-page-project-image">
+<a href="https://dice-game-lilac-one.vercel.app/">Click to view LIVE</a>
+<br>
+<br>
 <br>
 <br>
 
