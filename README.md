@@ -22,7 +22,8 @@
 
 <h1 align="center">Project-3      --Dice Game using React          </h1>
 <h4>This project was difficult but Insightful as I was to figure out how we can make logic in React.js. </h4>
-<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(188).png?raw=true" alt="Contact-page-project-image">
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(188).png?raw=true" alt="Dice-Game-project-image">
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(187).png?raw=true" alt="Dice-Game-project-image">
 <a href="https://dice-game-lilac-one.vercel.app/">Click to view LIVE</a>
 <br>
 <br>
@@ -30,7 +31,6 @@
 <br>
 <h1 align="center">Project-4      --Food menu app using API           </h1>
 <h4>This project was also difficult but knowlegeble  as I Learned about using API's in React ,how to fetch data and then display it .</h4>
-<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(188).png?raw=true" alt="Contact-page-project-image">
 <a href="https://dice-game-lilac-one.vercel.app/">Click to view LIVE</a>
 <br>
 <br>
