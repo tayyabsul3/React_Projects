@@ -10,16 +10,17 @@
 <br>
 <br>
 <h1 align="center" >Project-2      --Contact Us page           </h1>
-<h4 align="center">This project helped me learn about **forms React.js** and I was able to Learn about building Contact Us and Display/Store  User data .</h4>
+<h4 align="center">This project helped me learn about forms React.js and I was able to Learn about building Contact Us and Display/Store  User data .</h4>
 <img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(186).png?raw=true" alt="Contact-page-project-image">
+<a href="https://contact-page-brown.vercel.app/">Click to view LIVE</a>
 <br>
 <br>
-<h1>Project-3      --Dice Game using React          </h1>
-<p>This project was difficult but Insightful as I was to figure out how we can make logic in React.js. </p>
+<h1 align="center">Project-3      --Dice Game using React          </h1>
+<h4>This project was difficult but Insightful as I was to figure out how we can make logic in React.js. </h4>
 <br>
 <br>
-<h1>Project-4      --Food menu app using API           </h1>
-<p>This project was also difficult but knowlegeble  as I Learned about using API's in React ,how to fetch data and then display it .</p>
+<h1 align="center">Project-4      --Food menu app using API           </h1>
+<h4>This project was also difficult but knowlegeble  as I Learned about using API's in React ,how to fetch data and then display it .</h4>
 <br>
 <br>
 
