@@ -1,4 +1,4 @@
-# React-Practice-Projects
+<h1 align="center">React-Practice-Projects</h1>
 <p align="center">While Learning React I practiced my concepts with these projects.</p>
 
 <br>
