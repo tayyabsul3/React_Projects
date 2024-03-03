@@ -54,4 +54,19 @@
 <br>
 <br>
 <br>
+<h4>Dashboard</h4>
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(192).png?raw=true">
+
+<h4>Transactions Page</h4>
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(193).png?raw=true">
+
+<h4>Support Page</h4>
+<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(194).png?raw=true">
+
+<br>
+<a href="https://crypto-dashboard-ui.vercel.app/">Click to view LIVE</a>
+<br>
+<br>
+<br>
+
 
