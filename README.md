@@ -68,5 +68,18 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<h4>REACT Auth with FIREBASE</h4>
+<img src="https://github.com/tayyabsul3/React_Projects/blob/main/photo-collage.png.png">
+
+
+<br>
+<a href="https://reactfirebaseauth-git-main-muhammad-tayyabs-projects-f3c181e9.vercel.app/">Click to view LIVE</a>
+<br>
+<br>
+<br>
 
 
