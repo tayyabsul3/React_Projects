@@ -54,7 +54,7 @@
 <br>
 <br>
 <br>
-<h4>Dashboard</h4>
+<h1 align="center">Project-6     DASHBOARD UI Static       </h1>
 <img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(223).png">
 
 <h4>Transactions Page</h4>
@@ -72,7 +72,8 @@
 <br>
 <br>
 <br>
-<h4>REACT Auth with FIREBASE</h4>
+<h1 align="center">Project-7     REACT Auth with FIREBASE         </h1>
+
 <img src="https://github.com/tayyabsul3/React_Projects/blob/main/photo-collage.png.png">
 
 
