@@ -71,18 +71,7 @@
 <br>
 <br>
 <br>
-<h1 align="center">      --Dice Game using React          </h1>
-<h4 align="center">This project was difficult but Insightful as I was to figure out how we can make logic in React.js. </h4>
-<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(188).png?raw=true" alt="Dice-Game-project-image">
-<img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(187).png?raw=true" alt="Dice-Game-project-image">
-<a href="https://dice-game-lilac-one.vercel.app/">Click to view LIVE</a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h1 align="center">      --Nike Simple Home Page           </h1>
 <h5 align="center">This project helped me graps the concept of components in **React.js and I was able to Learn about building Components practically .</h5>
 <img src="https://github.com/tayyabsul3/React-Practice-Projects/blob/main/Screenshot%20(185).png?raw=true" alt="brand-page-project-image">
